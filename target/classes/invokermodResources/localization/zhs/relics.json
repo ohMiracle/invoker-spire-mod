@@ -1,9 +1,0 @@
-{
-  "invokermod:QuasOrbRelic": {
-    "NAME": "寒冰精华",
-    "FLAVOR": "蕴含着纯净寒冰能量的宝珠。",
-    "DESCRIPTIONS": [
-      "每场战斗开始时，生成一个寒冰球体。"
-    ]
-  }
-}
