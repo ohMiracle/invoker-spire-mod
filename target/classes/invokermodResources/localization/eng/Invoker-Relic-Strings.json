@@ -1,0 +1,37 @@
+{
+  "invokermod:QuasOrb": {
+    "NAME": "Quas Orb",
+    "FLAVOR": "A mystical orb containing the essence of ice.",
+    "DESCRIPTIONS": [
+      "Gain 1 Talent Point. Your Quas talents are #b25% more effective."
+    ]
+  },
+  "invokermod:WexOrb": {
+    "NAME": "Wex Orb",
+    "FLAVOR": "A mystical orb containing the essence of storm.",
+    "DESCRIPTIONS": [
+      "Gain 1 Talent Point. Your Wex talents are #b25% more effective."
+    ]
+  },
+  "invokermod:ExortOrb": {
+    "NAME": "Exort Orb",
+    "FLAVOR": "A mystical orb containing the essence of fire.",
+    "DESCRIPTIONS": [
+      "Gain 1 Talent Point. Your Exort talents are #b25% more effective."
+    ]
+  },
+  "invokermod:AghanimsScepter": {
+    "NAME": "Aghanim's Scepter",
+    "FLAVOR": "A scepter of unimaginable power.",
+    "DESCRIPTIONS": [
+      "Gain #b2 Talent Points."
+    ]
+  },
+  "invokermod:ArcaneSupremacy": {
+    "NAME": "Arcane Supremacy",
+    "FLAVOR": "The ultimate manifestation of magical prowess.",
+    "DESCRIPTIONS": [
+      "Gain 1 Talent Point. Increase the maximum level of all talents by #b1. Your Invoke talents are #b25% more effective."
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "invokermod:Strike_Invoker": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "invokermod:Defend_Invoker": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "invokermod:Quas": {
+    "NAME": "Quas",
+    "DESCRIPTION": "Add a Cold Orb to your orb slots. NL Each Cold Orb heals you for !M! HP when you deal damage. NL Exhaust."
+  },
+  "invokermod:Wex": {
+    "NAME": "Wex",
+    "DESCRIPTION": "Add a Lightning Orb to your orb slots. NL Each Lightning Orb lets you draw !M! card when you play a card. NL Exhaust."
+  },
+  "invokermod:Exort": {
+    "NAME": "Exort",
+    "DESCRIPTION": "Add a Fire Orb to your orb slots. NL Each Fire Orb grants you !M! Strength. NL Exhaust."
+  },
+  "invokermod:Invoke": {
+    "NAME": "Invoke",
+    "DESCRIPTION": "Create a spell based on your current orbs. NL Exhaust."
+  },
+  "invokermod:ColdSnap": {
+    "NAME": "Cold Snap",
+    "DESCRIPTION": "Apply !M! Weak to ALL enemies. NL Requires: 3 Cold Orbs. NL Exhaust."
+  },
+  "invokermod:EMP": {
+    "NAME": "EMP",
+    "DESCRIPTION": "Gain !M! [E] for each enemy. NL Requires: 3 Lightning Orbs. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! [E] for each enemy. NL Requires: 3 Lightning Orbs. NL Exhaust."
+  },
+  "invokermod:SunStrike": {
+    "NAME": "Sun Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Requires: 3 Fire Orbs. NL Exhaust."
+  },
+  "invokermod:GhostWalk": {
+    "NAME": "Ghost Walk",
+    "DESCRIPTION": "Gain !B! Block and !M! Dexterity. NL Requires: 2 Cold Orbs and 1 Lightning Orb. NL Exhaust."
+  },
+  "invokermod:IceWall": {
+    "NAME": "Ice Wall",
+    "DESCRIPTION": "Gain !B! Block. NL Gain Block equal to twice your Strength. NL Requires: 2 Cold Orbs and 1 Fire Orb. NL Exhaust."
+  },
+  "invokermod:Alacrity": {
+    "NAME": "Alacrity",
+    "DESCRIPTION": "Draw !M! cards. NL Gain 1 Strength and 1 Dexterity. NL Requires: 2 Lightning Orbs and 1 Fire Orb. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Gain 2 Strength and 2 Dexterity. NL Requires: 2 Lightning Orbs and 1 Fire Orb. NL Exhaust."
+  },
+  "invokermod:Tornado": {
+    "NAME": "Tornado",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies 3 times. NL Apply !M! Weak. NL Requires: 2 Lightning Orbs and 1 Cold Orb. NL Exhaust."
+  },
+  "invokermod:ForgeSpirit": {
+    "NAME": "Forge Spirit",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL If the enemy has Block, deal !D! damage again. NL Requires: 2 Fire Orbs and 1 Cold Orb. NL Exhaust."
+  },
+  "invokermod:ChaosMeteor": {
+    "NAME": "Chaos Meteor",
+    "DESCRIPTION": "Deal !D! damage. NL Deal !M! damage to ALL enemies. NL Requires: 2 Fire Orbs and 1 Lightning Orb. NL Exhaust."
+  }
+}

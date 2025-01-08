@@ -1,0 +1,23 @@
+{
+  "invokermod:QuasPower": {
+    "NAME": "Cold Orb",
+    "DESCRIPTIONS": [
+      "When you deal damage, heal #b",
+      " HP."
+    ]
+  },
+  "invokermod:WexPower": {
+    "NAME": "Lightning Orb",
+    "DESCRIPTIONS": [
+      "When you play a card, draw #b",
+      " card."
+    ]
+  },
+  "invokermod:ExortPower": {
+    "NAME": "Fire Orb",
+    "DESCRIPTIONS": [
+      "Grants #b",
+      " Strength."
+    ]
+  }
+}

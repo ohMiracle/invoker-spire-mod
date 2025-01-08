@@ -1,0 +1,98 @@
+{
+  "invokermod:QuasAffinity": {
+    "TEXT": [
+      "Quas Affinity",
+      "Increase healing from Cold Orbs by 20%.",
+      "Increase healing from Cold Orbs by 40%.",
+      "Increase healing from Cold Orbs by 60%."
+    ]
+  },
+  "invokermod:WexAffinity": {
+    "TEXT": [
+      "Wex Affinity",
+      "Draw 1 additional card when drawing cards from Lightning Orbs.",
+      "Draw 1 additional card when drawing cards from Lightning Orbs.",
+      "Draw 2 additional cards when drawing cards from Lightning Orbs."
+    ]
+  },
+  "invokermod:ExortAffinity": {
+    "TEXT": [
+      "Exort Affinity",
+      "Increase Strength from Fire Orbs by 50%.",
+      "Double Strength from Fire Orbs.",
+      "Increase Strength from Fire Orbs by 150%."
+    ]
+  },
+  "invokermod:InvokeMastery": {
+    "TEXT": [
+      "Invoke Mastery",
+      "Increase all spell damage by 20%.",
+      "Increase all spell damage by 40%.",
+      "Increase all spell damage by 60%."
+    ]
+  },
+  "invokermod:IceMastery": {
+    "TEXT": [
+      "Ice Mastery",
+      "Cold Snap applies 1 additional Weak.",
+      "Cold Snap applies 2 additional Weak.",
+      "Cold Snap applies 3 additional Weak."
+    ]
+  },
+  "invokermod:LightningMastery": {
+    "TEXT": [
+      "Lightning Mastery",
+      "EMP grants 1 additional Energy.",
+      "EMP grants 2 additional Energy.",
+      "EMP grants 3 additional Energy."
+    ]
+  },
+  "invokermod:FireMastery": {
+    "TEXT": [
+      "Fire Mastery",
+      "Sun Strike deals 20% more damage.",
+      "Sun Strike deals 40% more damage.",
+      "Sun Strike deals 60% more damage."
+    ]
+  },
+  "invokermod:FrostArmor": {
+    "TEXT": [
+      "Frost Armor",
+      "Gain 2 Block whenever you gain Weak.",
+      "Gain 4 Block whenever you gain Weak.",
+      "Gain 6 Block whenever you gain Weak."
+    ]
+  },
+  "invokermod:SpeedAura": {
+    "TEXT": [
+      "Speed Aura",
+      "Draw 1 card at the start of your turn.",
+      "Draw 2 cards at the start of your turn.",
+      "Draw 3 cards at the start of your turn."
+    ]
+  },
+  "invokermod:BurningAura": {
+    "TEXT": [
+      "Burning Aura",
+      "Deal 3 damage to ALL enemies at the start of your turn.",
+      "Deal 5 damage to ALL enemies at the start of your turn.",
+      "Deal 7 damage to ALL enemies at the start of your turn."
+    ]
+  },
+  "invokermod:ElementalHarmony": {
+    "TEXT": [
+      "Elemental Harmony",
+      "Gain 1 additional Energy when you have all three elements.",
+      "Gain 2 additional Energy when you have all three elements.",
+      "Gain 3 additional Energy when you have all three elements."
+    ]
+  },
+  "invokermod:SpellAmplification": {
+    "TEXT": [
+      "Spell Amplification",
+      "Your spells apply their effects to ALL enemies.",
+      "Your spells apply their effects to ALL enemies twice.",
+      "Your spells apply their effects to ALL enemies three times."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "invokermod:QuasOrbPower": {
+    "NAME": "寒冰球体",
+    "DESCRIPTIONS": [
+      "在你的回合结束时，获得 #b",
+      " 点格挡。"
+    ]
+  },
+  "invokermod:WexOrbPower": {
+    "NAME": "雷电球体",
+    "DESCRIPTIONS": [
+      "你的攻击牌造成的伤害增加 #b",
+      "%。"
+    ]
+  },
+  "invokermod:ExortOrbPower": {
+    "NAME": "烈焰球体",
+    "DESCRIPTIONS": [
+      "你的下一张攻击牌额外造成 #b",
+      " 点伤害。"
+    ]
+  }
+}
