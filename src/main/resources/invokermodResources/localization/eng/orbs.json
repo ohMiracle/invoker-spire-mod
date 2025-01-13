@@ -1,0 +1,9 @@
+{
+  "invokermod:ExortOrb": {
+    "NAME": "Exort",
+    "DESCRIPTION": [
+      "While this orb exists, gain #b",
+      " #yStrength."
+    ]
+  }
+}

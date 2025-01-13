@@ -1,0 +1,11 @@
+{
+  "modid": "invokermod",
+  "name": "Invoker",
+  "author_list": ["Miracle"],
+  "description": "Adds The Invoker as a new character to Slay the Spire.",
+  "version": "0.1.0",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.0",
+  "dependencies": ["basemod", "stslib"],
+  "update_json": ""
+}

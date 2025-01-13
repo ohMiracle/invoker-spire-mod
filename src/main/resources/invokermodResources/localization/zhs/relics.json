@@ -1,0 +1,9 @@
+{
+  "invokermod:ElitismRelic": {
+    "NAME": "精英主义",
+    "FLAVOR": "掌握元素的力量需要绝对的专注。",
+    "DESCRIPTIONS": [
+      "每当你生成一个元素球，获得 #b1 点 #y力量。"
+    ]
+  }
+}

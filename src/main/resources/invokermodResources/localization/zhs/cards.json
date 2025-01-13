@@ -1,0 +1,19 @@
+{
+  "invokermod:Quas": {
+    "NAME": "寒冰",
+    "DESCRIPTION": "生成一个寒冰元素球。"
+  },
+  "invokermod:Wex": {
+    "NAME": "雷电",
+    "DESCRIPTION": "生成一个雷电元素球。"
+  },
+  "invokermod:Exort": {
+    "NAME": "烈焰",
+    "DESCRIPTION": "生成一个烈焰元素球。",
+    "UPGRADE_DESCRIPTION": "生成两个烈焰元素球。"
+  },
+  "invokermod:Invoke": {
+    "NAME": "咏唱",
+    "DESCRIPTION": "根据你的元素球组合释放相应的技能。"
+  }
+}

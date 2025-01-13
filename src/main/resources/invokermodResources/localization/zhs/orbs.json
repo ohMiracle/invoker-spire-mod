@@ -1,0 +1,9 @@
+{
+  "invokermod:ExortOrb": {
+    "NAME": "火焰",
+    "DESCRIPTION": [
+      "当这个球存在时，获得 #b",
+      " 点 #y力量 。"
+    ]
+  }
+}

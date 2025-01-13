@@ -1,0 +1,66 @@
+{
+  "invokermod:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "invokermod:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "invokermod:Quas": {
+    "NAME": "Ice",
+    "DESCRIPTION": "Channel an Ice orb."
+  },
+  "invokermod:Wex": {
+    "NAME": "Lightning",
+    "DESCRIPTION": "Channel a Lightning orb."
+  },
+  "invokermod:Exort": {
+    "NAME": "Fire",
+    "DESCRIPTION": "Channel a Fire orb."
+  },
+  "invokermod:Invoke": {
+    "NAME": "Invoke",
+    "DESCRIPTION": "Invoke a skill based on your orb combination."
+  },
+  "invokermod:ColdSnap": {
+    "NAME": "Cold Snap",
+    "DESCRIPTION": "Deal !D! damage and apply !M! Weak."
+  },
+  "invokermod:EMP": {
+    "NAME": "EMP",
+    "DESCRIPTION": "Deal !D! damage to all enemies."
+  },
+  "invokermod:SunStrike": {
+    "NAME": "Sun Strike",
+    "DESCRIPTION": "Deal !D! damage. If the target is Vulnerable, deal double damage."
+  },
+  "invokermod:GhostWalk": {
+    "NAME": "Ghost Walk",
+    "DESCRIPTION": "Gain !B! Block. Gain !M! Intangible."
+  },
+  "invokermod:Tornado": {
+    "NAME": "Tornado",
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+  },
+  "invokermod:Alacrity": {
+    "NAME": "Alacrity",
+    "DESCRIPTION": "Draw !M! cards."
+  },
+  "invokermod:ChaosMeteor": {
+    "NAME": "Chaos Meteor",
+    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
+  },
+  "invokermod:IceWall": {
+    "NAME": "Ice Wall",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "invokermod:ForgeSpirit": {
+    "NAME": "Forge Spirit",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "invokermod:DeafeningBlast": {
+    "NAME": "Deafening Blast",
+    "DESCRIPTION": "Deal !D! damage to all enemies and apply !M! Weak."
+  }
+}

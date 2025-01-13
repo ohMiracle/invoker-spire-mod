@@ -1,0 +1,26 @@
+{
+  "invokermod:TheInvoker": {
+    "NAMES": [
+      "The Invoker",
+      "The Invoker"
+    ],
+    "TEXT": [
+      "A mage proficient in elemental magic, capable of combining different elements to unleash powerful spells.",
+      "NL You summon an elemental orb...",
+      "Choose a card ",
+      "Choose ",
+      " cards to discard.",
+      "Choose ",
+      " cards to place on top of your draw pile.",
+      "Choose any number of cards ",
+      " cards.",
+      "Choose ",
+      " cards to remove from your deck.",
+      "Choose up to ",
+      " cards.",
+      "Choose a card to place on top of your draw pile.",
+      "Choose ",
+      " cards to add to your hand."
+    ]
+  }
+}

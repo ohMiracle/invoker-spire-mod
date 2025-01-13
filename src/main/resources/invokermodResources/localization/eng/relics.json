@@ -1,0 +1,9 @@
+{
+  "invokermod:ElitismRelic": {
+    "NAME": "Elitism",
+    "FLAVOR": "Mastering the elements requires absolute focus.",
+    "DESCRIPTIONS": [
+      "Whenever you channel an orb, gain #b1 Strength."
+    ]
+  }
+}
